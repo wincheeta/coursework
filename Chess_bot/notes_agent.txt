@@ -1,0 +1,440 @@
+
+--- Ply 1 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 3 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 5 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 7 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 9 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 1 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 3 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 5 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 7 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 9 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 11 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 13 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 15 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 17 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 19 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 21 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 23 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 25 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 27 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 29 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: too many values to unpack (expected 2)
+-> No best move found, returning random move.
+
+--- Ply 1 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 3 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 5 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 7 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 9 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 11 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 13 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 15 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 17 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 19 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 21 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 23 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 25 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 27 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 29 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 31 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 33 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 35 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 37 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 39 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 41 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 43 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 45 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 47 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 49 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 51 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 53 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 55 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 1 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 3 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 5 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 7 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 9 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 11 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 13 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 15 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 17 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 19 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 21 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 23 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 25 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 27 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 29 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 31 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 1 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 3 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 5 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 7 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 9 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 11 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 13 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 15 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 17 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 19 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 21 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 23 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 25 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 27 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 29 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 31 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 33 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 35 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 37 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 39 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 41 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 43 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 45 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.
+
+--- Ply 47 (white) | Time Limit: 13.80s ---
+Searching Depth 1, Time Left: 13.80s
+  > Error at depth 1: 'Board' object has no attribute 'make_move'
+-> No best move found, returning random move.

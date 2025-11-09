@@ -1,0 +1,46 @@
+In this exercise we consider bidirectional strings (inspired by bidirectional text in Unicode see
+https://en.wikipedia.org/wiki/Bidirectional_text ).
+
+For this exercise we will assume that strings contain only alphanumeric characters and the special  characters listed below.  We are working with strings that may contain markup to indicate the direction in which the characters in the string are to be displayed.  This sounds simple enough however, markup instructions are given as blocks of characters called isolates and these blocks may be nested. 
+
+To do this we introduce two ways of creating an isolate in a string:  we can create
+
+    LR (left to right) isolates and 
+    RL (right to left isolates).
+
+The characters >> in a string indicate the start of an LR isolate. We use a corresponding pair of colons characters :: to determine the end of an LR isolate.  
+
+The characters << in a string indicate the start of an RL isolate. We also use a corresponding pair of colons characters :: to determine the end of a RL isolate.  
+
+Isolates may be nested and an inner isolate will appear as a whole block in the direction of travel of the enclosing isolate. The :: symbols always terminate the most recently opened isolate symbol when reading from left to right. For example, the bidirectional string
+
+x>>abc<<def::ghi::y
+
+contains two explicit isolates, the outer isolate is LR and contains all characters between a and i. The inner isolate is RL consisting of all characters between d and f.  There is also an implicit top-level isolate containing x and y. Top-level isolates are always LR.    
+
+If we render this bidirectional string simply as a left-to-right string, we would reverse the inner RL isolate but that isolate would appear as a whole within the outer LR isolate. That is
+
+xabcfedghiy
+
+Where any isolate is opened but not terminated, we assume that there are implicit terminators :: at the end of the string. So, for example, 
+
+abc<<123>>def
+
+would be rendered, as a left-to-right string, as  
+ 
+abcdef321
+
+because the abc appear in an LR isolate, followed by the entire block of the RL isolate. The order in which this isolate is rendered is abc'inner-RL-isolate'
+
+The inner RL isolate contains the elements 123 followed by the entire block of the inner LR isolate and so the order in which this isolate is rendered right-to-left is:  'inner-LR-isolate'321
+
+Finally, the inner LR isolate is rendered as it appears:  def.
+
+Write a function  
+
+convertBiString :: String -> String 
+
+that converts a bidirectional string (under the given assumptions) to a string in which the direction instructions have been rendered for a LR display. 
+Hint:
+
+The nested isolates look a bit like well-bracketed expressions.  Can you use a stack here also? Values in the stack could indicate the current direction of the string rendering.  What else needs to be in the stack?
