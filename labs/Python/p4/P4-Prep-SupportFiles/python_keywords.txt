@@ -1,0 +1,23 @@
+def
+lambda
+while
+for
+in
+class
+import
+from
+as
+if
+else
+elif
+except
+raise
+finally
+and
+or
+not
+break
+return
+continue
+pass
+Probably a dozen more

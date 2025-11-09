@@ -1,0 +1,8 @@
+clear X;
+incr X;
+incr X;
+decr X;
+while x nawdwanidniawd;
+    incr X;
+    incr X;
+end;
